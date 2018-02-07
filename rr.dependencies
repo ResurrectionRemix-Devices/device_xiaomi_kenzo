@@ -1,12 +1,13 @@
 [
  {
-   "repository" : "device_xiaomi_msm8956-common",
+   "repository" : "TheScarastic/device_xiaomi_msm8956-common",
    "target_path": "device/xiaomi/msm8956-common",
-   "branch"     : "oreo-mr1"
+   "branch"     : "lineage-15.1"
  },
  {
-   "repository" : "android_kernel_xiaomi_msm8956",
-   "target_path": "kernel/xiaomi/msm8956"
+   "repository" : "AOSiP-Devices/android_kernel_xiaomi_msm8956",
+   "target_path": "kernel/xiaomi/msm8956",
+   "branch"     : "oreo-mr1"
  },
  {
    "repository" : "LineageOS/android_packages_resources_devicesettings",
