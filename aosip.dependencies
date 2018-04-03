@@ -17,6 +17,6 @@
  {
    "repository" : "TheScarastic/proprietary_vendor_xiaomi",
    "target_path": "vendor/xiaomi",
-   "branch"     : "lineage-15.1"
+   "branch"     : "oreo"
  }
 ]
