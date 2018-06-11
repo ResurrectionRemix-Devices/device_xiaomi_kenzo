@@ -1,8 +1,8 @@
 [
  {
-   "repository" : "AOSiP-Devices/device_xiaomi_msm8956-common",
+   "repository" : "device_xiaomi_msm8956-common",
    "target_path": "device/xiaomi/msm8956-common",
-   "branch"     : "oreo-mr1"
+   "branch"     : "oreo"
  },
  {
    "repository" : "AOSiP-Devices/android_kernel_xiaomi_msm8956",
