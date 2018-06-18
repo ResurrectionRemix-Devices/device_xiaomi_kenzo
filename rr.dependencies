@@ -5,9 +5,9 @@
    "branch"     : "oreo"
  },
  {
-   "repository" : "AOSiP-Devices/android_kernel_xiaomi_msm8956",
-   "target_path": "kernel/xiaomi/msm8956",
-   "branch"     : "oreo-mr1"
+   "repository" : "alexstsv/android_kernel_xiaomi_kenzo",
+   "target_path": "kernel/xiaomi/kenzo",
+   "branch"     : "o2_new"
  },
  {
    "repository" : "LineageOS/android_packages_resources_devicesettings",
@@ -15,7 +15,7 @@
    "branch"     : "lineage-15.1"
  },
  {
-   "repository" : "TheScarastic/proprietary_vendor_xiaomi",
+   "repository" : "alexstsv/proprietary_vendor_xiaomi",
    "target_path": "vendor/xiaomi",
    "branch"     : "lineage-15.1"
  }
